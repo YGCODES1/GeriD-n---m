@@ -1,5 +1,5 @@
 # YGCODES — Disk Kurtarma Aracı (v1.1  GNOS versiyon)
-
+# NOT ASLA HERANGİ BİR KÖTÜ AMAÇLI YAZILIM BULUNMAMAKTADIR KENDİSİ ZATEN 60 KİLOBYTE'lardadır !!
 ---
 ## Eklenen Yeni özellikler ! ()
 
