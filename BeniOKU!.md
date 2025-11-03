@@ -1,6 +1,19 @@
-# YGCODES — Disk Kurtarma Aracı (v1.0 Erken Erişim)
+# YGCODES — Disk Kurtarma Aracı (v1.1  GNOS versiyon)
 
 ---
+## Eklenen Yeni özellikler ! ()
+
+1. Daha fazla veri formatı örn: iso rar gibi 
+2. bazı performans iyleştirmeleri 
+3. açılış logosu ve boot ekranı F2'ye basarak ADMİN ile açıldığı anda sistem testi BASİT DEMO ŞUANLIK ! ! 
+4. hakkında ve editör menüsü eklendi 
+5. Hesap makinesi log tutma log yazma eklendi 
+6. Çekridek düzeyde Kritik performans iyleştirmeleri eklendi 
+7. Şuanki versiyon: 1.1 Çekirdek versiyonu 2.1V  
+8. Tasarım Dili - C 
+9. MİNİMUM veriye bağlı olarak 1 ila 10 gb boş alan önerilir...!
+10. YGCODES sunar....
+
 
 ## 📜 Lisans & Uyarı
 
